@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🦝 Raccoon Swag Studio
+### *Reimagining Classics with AI-Native Innovation*
 
-<!--
-**raccoonswagstudio/raccoonswagstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I’m an emerging indie developer focused on the intersection of **classic game logic** and **unique, modern mechanics.** I specialize in "vibe coding" high-performance, secure mobile experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🕹️ Current Project
+**[Checkers2026](https://play.google.com/store/apps/details?id=com.csabarinyu.checker)** *A polished, unique take on the strategy classic.*
+- **Status:** Live on Google Play (16+ Iterations)
+- **Tech:** Android, Firebase, Play Integrity API, Gemini AI
+
+### 🛡️ Platform Integrity
+I am dedicated to **high-integrity development**. My apps are built to be secure, bot-resistant, and player-focused. I actively monitor my traffic via Firebase to ensure a premium environment for both users and advertisers.
+
+---
+
+### 🛠️ The "Vibe Coding" Stack
+- **Languages:** Kotlin / Java
+- **Backend:** Firebase (Analytics & App Check)
+- **Design:** AI-assisted rapid prototyping
+- **Security:** app-ads.txt verified & Google Play Integrity
+
+**"Quality over quantity, swag over everything."**
+
