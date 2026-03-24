@@ -16,7 +16,7 @@ I am dedicated to **high-integrity development**. My apps are built to be secure
 ---
 
 ### 🛠️ The "Vibe Coding" Stack
-- **Languages:** Kotlin / Java
+- **Framework:** Flutter / Dart (Cross-platform excellence)
 - **Backend:** Firebase (Analytics & App Check)
 - **Design:** AI-assisted rapid prototyping
 - **Security:** app-ads.txt verified & Google Play Integrity
