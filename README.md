@@ -21,5 +21,5 @@ I am dedicated to **high-integrity development**. My apps are built to be secure
 - **Design:** AI-assisted rapid prototyping
 - **Security:** app-ads.txt verified & Google Play Integrity
 
-**"Quality over quantity, swag over everything."**
+**"Quality over quantity, security over everything."**
 
